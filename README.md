@@ -1,2 +1,2 @@
 # SSL
-trabajos sintaxis y semántica del lenguaje
+Trabajos prácticos realizados en la materia de sintaxis y semántica del lenguaje
